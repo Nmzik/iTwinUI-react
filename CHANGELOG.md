@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.32.0](https://www.github.com/iTwin/iTwinUI-react/compare/v1.31.0...v1.32.0) (2022-02-23)
+
+
+### What's new
+
+* **ExpandableBlock:** Add borderless option to expandable block ([#557](https://www.github.com/iTwin/iTwinUI-react/issues/557)) ([9e8c8ab](https://www.github.com/iTwin/iTwinUI-react/commit/9e8c8ab76a7c6d24c51d5eea9e4424417c0e2fad))
+
 ## [1.31.0](https://www.github.com/iTwin/iTwinUI-react/compare/v1.30.0...v1.31.0) (2022-02-15)
 
 ### What's new
